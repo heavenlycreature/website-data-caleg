@@ -27,7 +27,7 @@ export default function Nav(){
         {data.map((value) => {
             return (
                 <>        
-                    <NavLink key={value.id} to={`${value.instance.toLowerCase()}`} role="tab" className={({isActive, isPending}) => isActive ? "tab tab-active text-xs lg:text-lg" : isPending ? "pending" : "tab text-xs lg:text-base"} >          
+                    <NavLink key={value.id} to={`${value.instance.toLowerCase()}`} role="tab" className={({isActive, isPending}) => isActive ? "tab tab-active text-xs lg:text-lg" : isPending ? "pending" : "tab text-xs lg:text-base "} >          
                         {value.instance}
                         </NavLink>
                 </>

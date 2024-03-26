@@ -11,24 +11,26 @@ export default {
     themes: [
       {
         mytheme: {
-          "primary": "#0043ff",
-                  
-          "secondary": "#588c00",
-                  
-          "accent": "#bf5900",
-                  
-          "neutral": "#120805",
-                  
-          "base-100": "#fffdff",
-                  
-          "info": "#00a3ff",
-                  
-          "success": "#00fc8e",
-                  
-          "warning": "#ff3400",
-                  
-          "error": "#ff7d90",
-        },
+          
+          "primary": "#8000ff",
+                   
+          "secondary": "#e70000",
+                   
+          "accent": "#ff0000",
+                   
+          "neutral": "#1c2516",
+                   
+          "base-100": "#eafff5",
+                   
+          "info": "#0088e7",
+                   
+          "success": "#00f0c0",
+                   
+          "warning": "#995a00",
+                   
+          "error": "#ff6b74",
+                   },
+         
       },
     ],
   },
