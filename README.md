@@ -1,8 +1,12 @@
-# React + Vite
+# WEBSITE DATA CALON LEGISLATIF
+**Warning** : _This website are build for learn purpose only! do not share or use this website as a commercial!_
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Containing every data of candidates party including profile picture each person.
 
-Currently, two official plugins are available:
+## How to run this project on your local device
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> git clone https://***
+Replace the star based on link this repository
+> npm install / npm i
+And below are how to run the project on localhost
+> npm run dev
