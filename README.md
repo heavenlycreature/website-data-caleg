@@ -3,7 +3,7 @@
 
 Containing every data of candidates party including profile picture each person.
 
-## How to run this project on your local device
+## How to run this project on your local device.
 
 `git clone https://***`
 
