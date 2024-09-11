@@ -5,12 +5,12 @@ Containing every data of candidates party including profile picture each person.
 
 ## How to run this project on your local device
 
-`git clone https://*** .`
+`git clone https://***`
 
 Replace the star based on link this repository.
 
-`npm install / npm i .`
+`npm install / npm i`
 
 And below are how to run the project on localhost.
 
-`npm run dev .`
+`npm run dev`
